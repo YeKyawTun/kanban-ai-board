@@ -1,4 +1,4 @@
-# Kanban board with AI-assisted Assignee Recommendation (JSON Storage)
+# Kanban board with AI-assisted Assignee Recommendation
 
 A Kanban board with AI-assisted assignee recommendation:
 - 4 columns: To Do, In Progress, Review, Done
@@ -6,6 +6,12 @@ A Kanban board with AI-assisted assignee recommendation:
 - hybrid assignee recommendation: backend computes the recommendation deterministically, AI is used for explanation
 - JSON file persistence
 - Dockerized app
+
+==========================================================================
+
+
+## AI Tool Usage
+ChatGPT
 
 ==========================================================================
 

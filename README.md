@@ -228,7 +228,7 @@ The recommendation panel displays:
 
 
 ***Note***
-API test results are documented in `API Test.docx` under /kanban-ai-board-json/docs.
+API test results are documented in `API Test.docx` under docs folder.
 
 ==========================================================================
 
@@ -239,7 +239,7 @@ This test check newly created ticket has “archived value” which is default b
 It becomes “true” when user click this ticket via “Archive” button under “Done” column.
 
 ***Note***
-The test results are documented in `JestForTicket.docx` under under /kanban-ai-board-json/docs.
+The test results are documented in `JestForTicket.docx` under under docs folder.
 
 ==========================================================================
 

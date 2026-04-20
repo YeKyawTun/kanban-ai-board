@@ -239,7 +239,7 @@ This test check newly created ticket has “archived value” which is default b
 It becomes “true” when user click this ticket via “Archive” button under “Done” column.
 
 ***Note***
-The test results are documented in `JestForTicket.docx` under under docs folder.
+The test results are documented in `JestForTicket.docx` under docs folder.
 
 ==========================================================================
 

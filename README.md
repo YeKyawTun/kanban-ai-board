@@ -238,6 +238,7 @@ Unit Test for Ticket Object Creation
 This test check newly created ticket has “archived value” which is default by “false”.
 It becomes “true” when user click this ticket via “Archive” button under “Done” column.
 
+***Note***
 The test results are documented in `JestForTicket.docx` under under /kanban-ai-board-json/docs.
 
 ==========================================================================

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Build 2FA Authentication",
+    "description": "2FA Authentication for Customer 1.",
+    "status": "in_progress",
+    "priority": "high",
+    "label": "backend",
+    "assigneeId": 1,
+    "dueDate": "2026-04-23",
+    "createdAt": "2026-04-20T07:29:03.570Z",
+    "updatedAt": "2026-04-20T07:31:35.619Z",
+    "archived": false
+  },
+  {
+    "id": 2,
+    "title": "Fix push notification for Order Alerts",
+    "description": "Fix notification for Order Alerts. Currently, no alerts are received at Customer 2.",
+    "status": "todo",
+    "priority": "medium",
+    "label": "backend",
+    "assigneeId": 5,
+    "dueDate": "2026-04-24",
+    "createdAt": "2026-04-20T07:31:19.224Z",
+    "updatedAt": "2026-04-20T07:31:19.224Z",
+    "archived": false
+  }
+]

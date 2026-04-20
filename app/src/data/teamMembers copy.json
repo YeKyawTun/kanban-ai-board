@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Alice", "specialization": "backend" },
+  { "id": 2, "name": "Bob", "specialization": "frontend" },
+  { "id": 3, "name": "Carol", "specialization": "devops" },
+  { "id": 4, "name": "David", "specialization": "bugfix" },
+  { "id": 5, "name": "Eve", "specialization": "backend" },
+  { "id": 6, "name": "John", "specialization": "backend" },
+  { "id": 7, "name": "Jonny", "specialization": "frontend" },
+  { "id": 8, "name": "Jane", "specialization": "frontend" }
+]
